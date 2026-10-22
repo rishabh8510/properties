@@ -1,7 +1,6 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   experimental: {
     agentFeedback: true,
   },
@@ -14,6 +13,16 @@ const nextConfig: NextConfig = {
         as: "*.css",
       },
     },
+  },
+  // Unsplash रिमोट इमेजेसना परवानगी देण्यासाठी
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+        pathname: "/**",
+      },
+    ],
   },
 };
 

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "slug": "capital-house-lewisham",
+    "badge": "Office / Retail",
+    "title": "Capital House Lewisham",
+    "size": "1,220 to 23,867 sq ft",
+    "location": "Lewisham, London SE13",
+    "suitable": "Suitable for Offices, Retail, Showroom",
+    "price": "From £22.50 / sq ft",
+    "image": "https://images.unsplash.com/photo-1696783575714-0bc16317debe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["offices", "retail"],
+    "description": "Landmark mixed-use building in the heart of Lewisham, offering flexible floor plates that suit offices, showrooms and ground-floor retail. Excellent transport links and strong local footfall.",
+    "features": [
+      "Flexible Open-Plan Floors",
+      "Ground-Floor Retail Frontage",
+      "Passenger Lifts",
+      "Near Lewisham Rail & DLR"
+    ],
+    "gallery": [
+      "photo-1696783575714-0bc16317debe",
+      "photo-1746998032579-53288033500d",
+      "photo-1464029902023-f42eba355bde",
+      "photo-1652049133878-fefb2a6a2130"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "belvedere-da17-mulberry-way",
+    "badge": "Industrial & Yard",
+    "title": "Belvedere DA17 Mulberry Way",
+    "size": "5,000 to 24,000 sq ft",
+    "location": "Belvedere, DA17 6AN",
+    "suitable": "Warehouse / Open Storage / Industrial",
+    "price": "POA - Flexible Terms",
+    "image": "https://images.unsplash.com/photo-1684695749267-233af13276d0?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["industrial"],
+    "description": "Prominent industrial distribution facility situated along Mulberry Way, Belvedere. Features large concrete loading yard, roller shutter access, and eaves height up to 7.5 meters.",
+    "features": [
+      "Secure Yard Space",
+      "Roller Shutter Doors",
+      "Three-Phase Power",
+      "M25 Junction 1A Access"
+    ],
+    "gallery": [
+      "photo-1684695749267-233af13276d0",
+      "photo-1586528116311-ad8dd3c8310d",
+      "photo-1627309366653-2dedc084cdf1",
+      "photo-1565891741441-64926e441838"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "epping-commercial-complex",
+    "badge": "Commercial Hub",
+    "title": "Epping Commercial Complex",
+    "size": "17,000 to 19,000 sq ft",
+    "location": "Epping, Greater London",
+    "suitable": "Office, Showroom, Workshop & Storage",
+    "price": "From £16.00 / sq ft",
+    "image": "https://images.unsplash.com/photo-1679816281631-d88843f1e792?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["offices", "industrial"],
+    "description": "Versatile commercial complex combining modern office space with showroom frontage, workshop units and secure storage, ideal for businesses that need everything under one roof.",
+    "features": [
+      "Mixed-Use Layout",
+      "Showroom Frontage",
+      "Workshop & Storage Units",
+      "On-Site Parking"
+    ],
+    "gallery": [
+      "photo-1679816281631-d88843f1e792",
+      "photo-1772300704502-410f0fbd43bb",
+      "photo-1577553792670-3982f3f81352",
+      "photo-1758304481967-9edc1307f9d6"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "canary-wharf-executive-suite",
+    "badge": "Prime Office",
+    "title": "Canary Wharf Executive Suite",
+    "size": "2,500 to 12,000 sq ft",
+    "location": "Canary Wharf, London E14",
+    "suitable": "Corporate HQ, Tech & Financial Services",
+    "price": "From £48.50 / sq ft",
+    "image": "https://images.unsplash.com/photo-1591564477361-bbf4b8951534?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["offices"],
+    "description": "Premium Grade A office suites in the heart of Canary Wharf's financial district, designed for corporate headquarters, tech firms and financial services teams.",
+    "features": [
+      "Grade A Specification",
+      "Raised Floors & Air Conditioning",
+      "24/7 Security & Reception",
+      "Direct Jubilee Line Access"
+    ],
+    "gallery": [
+      "photo-1591564477361-bbf4b8951534",
+      "photo-1598824158396-0e6d84c70ac6",
+      "photo-1617565817140-53081ee8f047",
+      "photo-1626330043356-ac90dfd86aba"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "shoreditch-creative-loft-unit",
+    "badge": "Retail / Creative",
+    "title": "Shoreditch Creative Loft Unit",
+    "size": "850 to 3,500 sq ft",
+    "location": "Shoreditch High St, London E1",
+    "suitable": "Boutique Retail, Studio, Flagship Store",
+    "price": "£35,000 per annum",
+    "image": "https://images.unsplash.com/photo-1773665231158-d80e8a86f44d?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["retail"],
+    "description": "Characterful loft-style unit on Shoreditch High Street, perfect for boutique retail, creative studios or a flagship brand presence with strong passing trade.",
+    "features": [
+      "High Street Frontage",
+      "High Ceilings & Open Layout",
+      "Flexible Fit-Out Options",
+      "Near Shoreditch High Street Station"
+    ],
+    "gallery": [
+      "photo-1773665231158-d80e8a86f44d",
+      "photo-1685492259744-f42597aac776",
+      "photo-1464029902023-f42eba355bde",
+      "photo-1576242112365-49e5d83e1b31"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "greenwich-logistics-park",
+    "badge": "Logistics & Yard",
+    "title": "Greenwich Logistics Park",
+    "size": "10,000 to 35,000 sq ft",
+    "location": "Greenwich Peninsula, SE10",
+    "suitable": "Last-Mile Delivery & Storage Hub",
+    "price": "POA - Strategic Lettings",
+    "image": "https://images.unsplash.com/photo-1565953522043-baea26b83b7e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    "categories": ["industrial"],
+    "description": "Strategically located logistics hub on the Greenwich Peninsula, built for last-mile delivery operators and storage users who need fast access into central London.",
+    "features": [
+      "Large Concrete Yard",
+      "Level-Access Loading Doors",
+      "24/7 Site Access",
+      "Close to A102 & Blackwall Tunnel"
+    ],
+    "gallery": [
+      "photo-1565953522043-baea26b83b7e",
+      "photo-1672552226380-486fe900b322",
+      "photo-1764505879025-54d52167c77f",
+      "photo-1772299121503-cd62a57e3a26"
+    ]
+  }
+]

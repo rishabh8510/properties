@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "icon": "office",
+    "title": "Office Spaces",
+    "description": "Modern high-rise towers, open-plan creative lofts, and flexible serviced office hubs across Central & Greater London.",
+    "cta": "Browse 18 Office Listings",
+    "href": "/properties?type=offices"
+  },
+  {
+    "id": 2,
+    "icon": "industrial",
+    "title": "Industrial & Yards",
+    "description": "High-bay warehouses, logistics distribution hubs, secure open storage yards, and workshop units near key transport links.",
+    "cta": "Browse 12 Industrial Listings",
+    "href": "/properties?type=industrial"
+  },
+  {
+    "id": 3,
+    "icon": "retail",
+    "title": "Retail & Showrooms",
+    "description": "High-street retail units, prime corner frontage, shopping parade premises, and automotive showroom facilities.",
+    "cta": "Browse 15 Retail Units",
+    "href": "/properties?type=retail"
+  },
+  {
+    "id": 4,
+    "icon": "investment",
+    "title": "Investments",
+    "description": "High-yielding commercial assets, multi-let income portfolios, and redevelopment opportunities in strategic London zones.",
+    "cta": "Request Investment Deck",
+    "href": "/contact?subject=investment"
+  }
+]
