@@ -6,10 +6,10 @@ import { ArrowRight, ArrowUpRight, Mail, Menu, Moon, Phone, Sun, X } from "lucid
 
 const navLinks = [
   { name: "Home", href: "/" },
-  { name: "Featured Properties", href: "/properties" },
-  { name: "Property Types", href: "/property-types" },
-  { name: "About Us", href: "/about" },
-  { name: "London Zones", href: "/london-zones" },
+  { name: "Featured Properties", href: "/" },
+  { name: "Property Types", href: "/" },
+  { name: "About Us", href: "/" },
+  { name: "London Zones", href: "/" },
 ];
 
 function LinkedInIcon({ className }: { className?: string }) {
@@ -150,7 +150,7 @@ export default function Header() {
           <div className="mx-auto flex h-21 max-w-7xl items-center justify-between px-5 sm:px-8">
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3">
-              <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br from-green-500 to-green-700 text-2xl font-bold text-white shadow-lg shadow-green-600/30 sm:h-13 sm:w-13">
+              <span className="flex h-12 w-12 items-center justify-center rounded-xl bg-linear-to-br from-green-500 to-green-700 text-2xl font-bold text-white shadow-lg shadow-green-600/30 sm:h-13 sm:w-13">
                 H
               </span>
               <span className="flex flex-col leading-none">
@@ -167,7 +167,7 @@ export default function Header() {
             <nav className="hidden items-center gap-8 lg:flex xl:gap-10">
               {navLinks.map((link) => (
                 <Link
-                  key={link.href}
+                  key={link.name}
                   href={link.href}
                   className="text-[15px] font-medium text-slate-700 transition hover:text-green-600 dark:text-slate-200 dark:hover:text-green-400"
                 >
@@ -178,7 +178,7 @@ export default function Header() {
 
             {/* CTA */}
             <Link
-              href="/contact"
+              href="/"
               className="hidden items-center gap-2 rounded-sm bg-gradient-to-r from-green-600 to-green-700 px-6 py-2.5 text-[15px] font-semibold text-white shadow-lg shadow-green-600/25 transition hover:from-green-700 hover:to-green-800 lg:inline-flex"
             >
               Inquire Now <ArrowUpRight size={17} />
@@ -213,7 +213,7 @@ export default function Header() {
             <nav className="border-t border-gray-100 bg-white px-5 py-4 dark:border-slate-800 dark:bg-slate-900 lg:hidden">
               {navLinks.map((link) => (
                 <Link
-                  key={link.href}
+                  key={link.name}
                   href={link.href}
                   onClick={() => setIsOpen(false)}
                   className="block rounded-lg px-3 py-3 font-medium text-slate-700 hover:bg-gray-50 hover:text-green-600 dark:text-slate-200 dark:hover:bg-slate-800 dark:hover:text-green-400"
@@ -222,7 +222,7 @@ export default function Header() {
                 </Link>
               ))}
               <Link
-                href="/contact"
+                href="/"
                 onClick={() => setIsOpen(false)}
                 className="mt-3 flex items-center justify-center gap-2 rounded-xl bg-green-600 px-4 py-3 font-semibold text-white"
               >

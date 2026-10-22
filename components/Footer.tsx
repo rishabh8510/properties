@@ -3,23 +3,23 @@ import { Clock, Mail, MapPin, Phone } from "lucide-react";
 
 const quickLinks = [
   { name: "Home Page", href: "/" },
-  { name: "About Us", href: "/about" },
-  { name: "Featured Lettings", href: "/properties" },
-  { name: "Commercial Sectors", href: "/property-types" },
-  { name: "London Locations", href: "/london-zones" },
+  { name: "About Us", href: "/" },
+  { name: "Featured Lettings", href: "/" },
+  { name: "Commercial Sectors", href: "/" },
+  { name: "London Locations", href: "/" },
 ];
 
 const propertyTypes = [
-  { name: "Office Spaces", href: "/properties?type=offices" },
-  { name: "Retail Units", href: "/properties?type=retail" },
-  { name: "Industrial & Storage", href: "/properties?type=industrial" },
-  { name: "Investment Assets", href: "/contact?subject=investment" },
+  { name: "Office Spaces", href: "/" },
+  { name: "Retail Units", href: "/" },
+  { name: "Industrial & Storage", href: "/" },
+  { name: "Investment Assets", href: "/" },
 ];
 
 const legalLinks = [
-  { name: "Privacy Policy", href: "/privacy-policy" },
-  { name: "Terms & Conditions", href: "/terms" },
-  { name: "Sitemap", href: "/sitemap" },
+  { name: "Privacy Policy", href: "/" },
+  { name: "Terms & Conditions", href: "/" },
+  { name: "Sitemap", href: "/" },
 ];
 
 function LinkedInIcon({ className }: { className?: string }) {
